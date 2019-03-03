@@ -21,5 +21,5 @@ My Keyboard:
 
 * QMK Toolbox for flashing https://github.com/qmk/qmk_toolbox/releases
 * enter bootloader mode with space + B before plugging in
-* https://config.qmk.fm to build firmware in browser\
+* https://config.qmk.fm to build firmware in browser
 * current layout for QMK config in this repo
