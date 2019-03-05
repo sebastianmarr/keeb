@@ -6,6 +6,7 @@ My Keyboard:
 * Steel Plate
 * Hako True Switches
 * EnjoyPBT 9009 Keycaps
+* Layout: https://bit.ly/2EOJvCv
 
 ## Hardware
 
