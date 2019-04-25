@@ -6,17 +6,18 @@ My Keyboard:
 * Steel Plate
 * Hako True Switches
 * EnjoyPBT 9009 Keycaps
-* Layout: https://bit.ly/2STE8py
+* KBDFans Tofu 60% Case
+* Layout: https://bit.ly/2XHojoG
 
 ## Hardware
 
 * Screws are under the following keys: 
-** left caps lock
-** right of space bar
-** below enter (delete key)
-** under \|
-** betwen G and H
-** under tab
+  * left caps lock
+  * right of space bar
+  * below enter (delete key)
+  * under \|
+  * betwen G and H
+  * under tab
 
 ## Software
 
