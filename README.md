@@ -4,8 +4,8 @@ My Keyboard:
 
 * DZ60 PCB
 * Steel Plate
-* Hako True Switches
-* EnjoyPBT 9009 Keycaps
+* KBDFans T1 Switches
+* ePBT Extended 2048 Caps
 * KBDFans Tofu 60% Case
 * Layout: https://bit.ly/2XHojoG
 
@@ -24,4 +24,4 @@ My Keyboard:
 * QMK Toolbox for flashing https://github.com/qmk/qmk_toolbox/releases
 * enter bootloader mode with space + B before plugging in
 * https://config.qmk.fm to build firmware in browser
-* current layout for QMK config in this repo
+* current layout and hex file in this repo
